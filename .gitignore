@@ -1,0 +1,7 @@
+key.py
+paroli_venv
+
+__pycache__
+*.pyc
+
+vault.json
